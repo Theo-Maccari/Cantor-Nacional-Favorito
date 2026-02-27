@@ -1,6 +1,15 @@
-h1{
+body{
 
-font-size: xx-large;
-
+background-color:darkslategray
 
 }
+
+h1{
+
+font-size: 200px;
+text-align: center;
+
+font-family:'Times New Roman', Times, serif'
+
+}
+
