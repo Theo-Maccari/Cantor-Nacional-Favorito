@@ -1,15 +1,57 @@
-body{
+body {
 
-background-color:darkslategray
-
-}
-
-h1{
-
-font-size: 200px;
-text-align: center;
-
-font-family:'Times New Roman', Times, serif'
+    background-color: darkslategray;
+    margin: 0;
 
 }
 
+h1 {
+
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-size: 100px;
+    background-color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+}
+
+h2 {
+
+    padding: 20px;
+
+}
+
+.img1 {
+    width: 350px;
+    height: 500px;
+    padding: 20px;
+    border-radius: 50px;
+
+
+}
+
+.img2 {
+    width: 500px;
+    height: 300px;
+    padding: 20px;
+    border-radius: 50px;
+}
+
+.img3 {
+    width: 450px;
+    height: 300px;
+    border-radius: 50px;
+    padding: 20px;
+    border-radius: 50px;
+}
+
+footer {
+
+    padding: 10px;
+    text-align: center;
+    background-color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+
+}
